@@ -13,6 +13,7 @@ package pkg22205011.pbo.lat52.java;
  * Nim : 22205011
  * Jurusan : Teknik Informatika 
  * Mata kuliah : Pemprograman Berorientasi Objek 1
+ * Deskripsi : membuat program dengan menentukan siapa kamu
  */
 
 class manusia {
